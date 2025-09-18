@@ -1,4 +1,4 @@
-# 網路爬蟲作品集 (Web Scraper Portfolio)
+# 網路爬蟲作品集 (Web crawler Portfolio)
 這個專案是一個小型網路爬蟲作品集，展示了如何使用 Python 爬取不同網站的資料。專案包含了兩個主要部分：一個是爬取 PTT 文章標題與連結的爬蟲，另一個是爬取寶可夢官方圖鑑圖片的下載器
 
 ## 專案簡介 (Introduction)
