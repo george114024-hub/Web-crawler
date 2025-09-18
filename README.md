@@ -34,4 +34,9 @@
 
    c. os：用於處理檔案和目錄，例如檢查和創建資料夾。
 
+## 成果展示(Results display)
+1. PTT 文章爬蟲
 <img width="1126" height="586" alt="螢幕擷取畫面 2025-09-18 182447" src="https://github.com/user-attachments/assets/76567b7d-a4ac-449c-931c-ef555799933d" />
+
+2. 寶可夢圖片下載器
+<img width="1571" height="730" alt="螢幕擷取畫面 2025-09-18 182816" src="https://github.com/user-attachments/assets/5e8d4b8e-1ba8-4168-b2ad-6ae4f9b40d76" />
