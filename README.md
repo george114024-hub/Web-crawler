@@ -27,6 +27,9 @@
 ## 技術棧 (Technology Stack)
 1. 程式語言： Python 3.12.7
 2. 主要函式庫：
- a. requests：用於發送 HTTP 請求，輕鬆處理網路連線。
- b. BeautifulSoup：用於解析 HTML 和 XML 文件，從中尋找目標資料。
- c. os：用於處理檔案和目錄，例如檢查和創建資料夾。
+   
+   a. requests：用於發送 HTTP 請求，輕鬆處理網路連線。
+
+   b. BeautifulSoup：用於解析 HTML 和 XML 文件，從中尋找目標資料。
+
+   c. os：用於處理檔案和目錄，例如檢查和創建資料夾。
